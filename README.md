@@ -290,10 +290,6 @@ topics = qa_chain.answer_question(
 * Maintain modular architecture
 
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Changelog 📝
 
 ### v1.0.0 (Latest)
