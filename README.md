@@ -289,17 +289,6 @@ topics = qa_chain.answer_question(
 * Add docstrings for all functions
 * Maintain modular architecture
 
-### Testing
-
-```bash
-# Run all tests
-python -m pytest tests/
-
-# Run specific test categories
-python -m pytest tests/test_pdf_utils.py
-python -m pytest tests/test_vector_store.py
-python -m pytest tests/test_qa_chain.py
-```
 
 ## License 📄
 
@@ -318,9 +307,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or contributions:
 
-* **GitHub Issues**: [Create an issue](https://github.com/your-username/chat-with-notes/issues)
+* **GitHub Issues**: [Create an issue](https://github.com/Am3nek/chat-with-notes/issues)
 
-* **Discussions**: [GitHub Discussions](https://github.com/your-username/chat-with-notes/discussions)
+* **Discussions**: [GitHub Discussions](https://github.com/Am3nek/chat-with-notes/discussions)
 
 ---
 
