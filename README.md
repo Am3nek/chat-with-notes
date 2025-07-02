@@ -19,7 +19,7 @@ A powerful Streamlit application that allows you to upload PDF documents and cha
 
 ```bash
 # Clone or download the project files
-git clone <your-repo-url>
+git clone https://github.com/Am3nek/chat-with-notes.git
 cd chat-with-notes
 
 # Install dependencies
